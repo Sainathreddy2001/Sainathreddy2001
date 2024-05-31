@@ -31,31 +31,24 @@ I am Sainathreddy, a dedicated Full-Stack Developer skilled in building dynamic 
 
 ### 🛠 Projects
 -**Netflix Landing Page UI Clone:**
-Domain: Web development | Tech stack used: HTML CSS JS
-▪ Developed a visually captivating Netflix Landing Page UI project.
-▪ Implemented responsive design principles for seamless viewing across devices.
-▪ Utilized JavaScript to add dynamic elements, enhancing interactions and navigation.
+-Domain: Web development | Tech stack used: HTML CSS JS
+-▪ Developed a visually captivating Netflix Landing Page UI project.
+-▪ Implemented responsive design principles for seamless viewing across devices.
+-▪ Utilized JavaScript to add dynamic elements, enhancing interactions and navigation.
 -**Blog Web Application:**
-Domain: Web development | Tech stack used: NodeJS, ExpressJS, MongoDB
-▪ Created a dynamic and interactive blog web application with user-friendly interface for
-seamless content creation, editing, and deletion.
-▪ Assisted in designing and implementing CRUD (Create, Read, Update, Delete) functionalities
-for managing blog posts effectively.
-▪ Developed RESTful API endpoints for efficient communication between the frontend and
-backend systems.
+-Domain: Web development | Tech stack used: NodeJS, ExpressJS, MongoDB
+-▪ Created a dynamic and interactive blog web application with user-friendly interface for seamless content creation, editing, and deletion.
+-▪ Assisted in designing and implementing CRUD (Create, Read, Update, Delete) functionalities for managing blog posts effectively.
+-▪ Developed RESTful API endpoints for efficient communication between the frontend and backend systems.
 -**Keeper Project:**
-Domain: Web development | Tech stack used: ReactJS
-▪ Created a dynamic Keeper project using React.js.
-▪ Developed an intuitive user interface where users can easily add new posts by entering a title
-and text content enabling users to remove unwanted posts with a single click.
+-Domain: Web development | Tech stack used: ReactJS
+-▪ Created a dynamic Keeper project using React.js.
+-▪ Developed an intuitive user interface where users can easily add new posts by entering a title and text content enabling users to remove unwanted posts with a single click.
 -**Hospital Appointment Booking Website:**
-Domain: Web development | Tech stack used: PHP, MySQL, Javascript
-▪ Developed a comprehensive hospital appointment booking website that allows users to book
-appointments online with responsive and visually appealing user interface.
-▪ Implemented server-side functionality using PHP to handle form submissions and process
-appointment bookings securely.
-▪ Integrated MySQL database to store and manage user information and appointment details
-efficiently
+-Domain: Web development | Tech stack used: PHP, MySQL, Javascript
+-▪ Developed a comprehensive hospital appointment booking website that allows users to book appointments online with responsive and visually appealing user interface.
+-▪ Implemented server-side functionality using PHP to handle form submissions and process appointment bookings securely.
+-▪ Integrated MySQL database to store and manage user information and appointment details efficiently
 
 ### 📚 Learning & Development
 - **Latest Courses:** Completed Fullstack web development on Udemy, focusing on hooks, context API, and advanced state management in react.
