@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-## Full-Stack Developer (MERN Stack)
+## Data Analyst and Full-Stack Developer (MERN Stack)
 
-I am Sainathreddy, a dedicated Full-Stack Developer skilled in building dynamic and responsive web applications using the MERN stack. My expertise lies in creating efficient, scalable, and user-friendly solutions that meet the needs of both clients and end-users.
+I am Sainathreddy, a dedicated Full-Stack Developer , Data Analyst skilled in building dynamic and responsive web applications using the MERN stack, and have Proficient Data Analytic skills like PowerBI, MySQL, Python etc.  My expertise lies in creating efficient, scalable, and user-friendly solutions that meet the needs of both clients and end-users.
 
 ### 🚀 Skills & Technologies
+- **Data Analysis:** Excel, EDA, Python, PowerBI, MySQL, Tableau 
 - **Frontend:** React, Redux, HTML5, CSS3, JavaScript (ES6+), Bootstrap
 - **Backend:** Node.js, Express.js, RESTful APIs
 - **Database:** MongoDB, Mongoose, Firebase
